@@ -11,4 +11,3 @@
 ## Tecnologias utilizadas no projeto
 * HTML
 * CSS
-# monibank-alura
